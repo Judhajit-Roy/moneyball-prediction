@@ -6,21 +6,21 @@ In the early 2000s, Billy Beane and Paul DePodesta worked for the Oakland Athlet
 # Content
 This data set contains a set of variables that Beane and DePodesta focused heavily on. They determined that stats like on-base percentage (OBP) and slugging percentage (SLG) were very important when it came to scoring runs, however they were largely undervalued by most scouts at the time. This translated to a gold mine for Beane and DePodesta. Since these players weren't being looked at by other teams, they could recruit these players on a small budget. The variables are as follows:
 
-Team
-League
-Year
-Runs Scored (RS)
-Runs Allowed (RA)
-Wins (W)
-On-Base Percentage (OBP)
-Slugging Percentage (SLG)
-Batting Average (BA)
-Playoffs (binary)
-RankSeason
-RankPlayoffs
-Games Played (G)
-Opponent On-Base Percentage (OOBP)
-Opponent Slugging Percentage (OSLG)
+*Team
+*League
+*Year
+*Runs Scored (RS)
+*Runs Allowed (RA)
+*Wins (W)
+*On-Base Percentage (OBP)
+*Slugging Percentage (SLG)
+*Batting Average (BA)
+*Playoffs (binary)
+*RankSeason
+*RankPlayoffs
+*Games Played (G)
+*Opponent On-Base Percentage (OOBP)*
+*Opponent Slugging Percentage (OSLG)
 
 # Acknowledgements
 This data set is referenced in The Analytics Edge course on EdX during the lecture regarding the story of Moneyball.
